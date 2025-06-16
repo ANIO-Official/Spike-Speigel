@@ -32,6 +32,10 @@ h1, h2, h3, h4, p {
     font-family: sans-serif;
 }
 
+#bg-music{
+    margin: -20px 0;
+}
+
 #header {
     display: flex;
     flex-direction: column;
